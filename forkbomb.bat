@@ -1,4 +1,5 @@
 @echo off
+color A
 set name=%0
 set clone=1
 
