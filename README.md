@@ -1,1 +1,1 @@
-# this is a simple fork bomb with cmd windos 
+# this is a simple fork bomb with cmd windows
